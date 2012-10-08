@@ -1,8 +1,8 @@
 nodejs-ws-chat
 ==============
 
-simple nodejs websocket chat.
-built with WS: https://github.com/einaros/ws
-and jQuery.
-To run the chat server, import the ws module into your working directory:
-npm install ws
+a simple nodejs websocket chat,<br/>
+built with WS: https://github.com/einaros/ws<br/>
+and jQuery.<br/>
+To run the chat server, import the ws module into your working directory:<br/>
+npm install ws<br/>
